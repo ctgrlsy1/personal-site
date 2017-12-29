@@ -1,0 +1,136 @@
+
+
+
+body {
+	background: rgba(224, 224, 224, 0.42);
+}
+
+
+ p {
+	font-family: 'Lato', sans-serif;
+}
+
+li {
+	font-family: 'Lato', sans-serif;
+}
+
+hr {
+	width: 70%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container {
+	background: white;
+    margin-top: -18px;
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+
+.menu button {
+	margin-right: 20px;
+	background: white;
+    /* border: 1px solid black; */
+    padding: 12px;
+    border-bottom: 1px solid black;
+    border: none;
+    border-bottom: 3px solid black;
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 5px;
+	
+
+}
+
+.menu button a {
+	text-decoration: none;
+    color: black;
+}
+
+.menu button a:hover {
+	background: pink;
+}
+
+#menu {
+	text-align: center;
+	padding-top: 20px;
+	
+}
+
+.title h1 {
+	font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 90px;
+    padding: 30px;
+}
+
+.about {
+	text-align: center;
+    margin-top: -50px;
+	
+}
+
+.centerbutton {
+
+margin: 0 auto;
+    width: 230px;
+
+
+}
+
+
+.button-one {
+    background: rgba(236, 236, 236, 0.26);
+    border: 1px solid black;
+    padding: 12px;
+    display: block;
+  
+}
+
+.about ul {
+	line-height: 30px;
+    text-align: left;
+    display: inline-block;
+    margin-left: 0px;
+    font-size: 13px;
+}
+
+
+.about li {
+	list-style: none;
+	margin: 0px;
+	
+}
+
+.list {
+	padding: 50px;
+}
+
+#list {
+	display: none;
+	background: rgba(224, 224, 224, 0.42);
+}
+
+.about h1 {
+      text-transform: lowercase;
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: 40px;
+    font-family: lato;
+    
+
+}
+
+
+.about h2 {
+	font-size: 35px;
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+
+
+.contact {
+	padding: 80px;
+}
